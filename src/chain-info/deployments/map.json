@@ -1,10 +1,10 @@
 {
   "42": {
     "DRTToken": [
-      "0xa9940cACDd09a29DcA6662420b747d5b3a0dD867",
+      "0xa9940cACDd09a29DcA6662420b747d5b3a0dD867"
     ],
     "ForRentTransactions": [
-      "0x5b2FDF311d06A2D30ba7997C866F921e0E346136",
-    ],
+      "0x5b2FDF311d06A2D30ba7997C866F921e0E346136"
+    ]
   }
 }
